@@ -1,1 +1,1 @@
-Run the server: `go run server.go`
+Run server: `go run server.go`
